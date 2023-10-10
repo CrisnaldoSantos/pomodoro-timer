@@ -14,13 +14,13 @@ A troca de informações entre as páginas ocorre de forma centralizada por cont
 ## Screenshots
 
 <p align="center">
-    <img src=".github/assets/inicial.PNG" width="700px">
+    <img src=".github/assets/inicial.png" width="700px">
 </p>
 
 <p align="center">
-    <img src=".github/assets/andamento.PNG" width="700px">
+    <img src=".github/assets/andamento.png" width="700px">
 </p>
 
 <p align="center">
-    <img src=".github/assets/historico.PNG" width="700px">
+    <img src=".github/assets/historico.png" width="700px">
 </p>
